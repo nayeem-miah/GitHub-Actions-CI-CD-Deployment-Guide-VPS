@@ -189,13 +189,13 @@ jobs:
 ## Project Path
 
 ```text
-/var/www/sahreric-backend
+/var/www/your-backend
 ```
 
 ## PM2 Process Name
 
 ```text
-sahreric-backend
+your-backend
 ```
 
 ---
